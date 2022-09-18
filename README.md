@@ -1,2 +1,0 @@
-# Presider
-For Christmas
