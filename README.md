@@ -1,2 +1,0 @@
-# Presider
-Generating a password
